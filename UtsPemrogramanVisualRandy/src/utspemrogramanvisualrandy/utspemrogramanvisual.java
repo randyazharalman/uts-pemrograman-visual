@@ -21,7 +21,7 @@ public class utspemrogramanvisual extends javax.swing.JFrame {
         try {
             String url = "jdbc:mysql://localhost/utspemrogramanvisual";
             String user = "root";
-            String pass = "mypass";
+            String pass = "";
             Class.forName("com.mysql.cj.jdbc.Driver");
             con = DriverManager.getConnection(url, user, pass);
             stmt = con.createStatement();
