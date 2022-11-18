@@ -7,10 +7,7 @@ package utspemrogramanvisualrandy;
 import java.sql.*;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Tira Sundara
- */
+
 public class utspemrogramanvisual extends javax.swing.JFrame {
 
     public static Connection con;
