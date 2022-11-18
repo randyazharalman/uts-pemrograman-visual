@@ -204,7 +204,7 @@ public class utspemrogramanvisual extends javax.swing.JFrame {
 
     private void closeActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_closeActionPerformed
         dispose();
-        // TODO add your handling code here:
+        
     }//GEN-LAST:event_closeActionPerformed
 
     /**
